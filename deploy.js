@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const { interface, bytecode } = require('./complie');
 
 const provider = new HDWalletProvider(
-  'issue surround whisper cement lock young endless virtual endless sniff rubber sad',
+  'local best learn erase change pipe crunch addict evil lawn equal garage',
   'https://rinkeby.infura.io/v3/b01fa8a0141a4714a36b52d5676217ee'
 );
 
